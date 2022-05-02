@@ -65,10 +65,10 @@ h1 {
 }
 
 .apple {
-    width: 63px;
+    width: 61px;
     position: absolute;
-    top: 1797px;
-    left: 47.1%;
+    top: 1799px;
+    left: 56.1%;
 }
 
 .apple:hover {
@@ -87,10 +87,10 @@ h1 {
 }
 
 .fa.fa-spotify {
-    font-size: 210%;
+    font-size: 205%;
     position: absolute;
-    top: 1800px;
-    left: 38%;
+    top: 1801px;
+    left: 38.1%;
     padding: 9px 12px;
     
 }
@@ -110,7 +110,7 @@ h1 {
     font-size: 60px;
     position: absolute;
     top: 1800px;
-    left: 56.3%;
+    left: 47.1%;
     color:#000000;
     
 }
