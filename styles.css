@@ -7,7 +7,6 @@
 html {
     background-color:aliceblue;
     font-size: 16px;
-    
 }
 
 body {
@@ -92,7 +91,6 @@ h1 {
     top: 1800px;
     left: 38%;
     padding: 9px 12px;
-    
 }
 
 .iheart {
@@ -112,7 +110,6 @@ h1 {
     top: 1800px;
     left: 56.3%;
     color:#000000;
-    
 }
 
 .iconify:hover {
@@ -125,7 +122,6 @@ h1 {
     position: absolute;
     top: 275px;
     left: 5%
-    
 }
 
 .gabe2 {
@@ -158,5 +154,4 @@ h1 {
     position: absolute;
     top: 1375px;
     left: 5%; 
-    
 }
